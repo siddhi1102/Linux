@@ -1,0 +1,1 @@
+mkdir a a/b a/c a/b/d a/b/e a/b/f a/c/g a/c/h a/b/d/k a/b/e/j a/c/g/i a/c/h/l a/c/h/l/n a/b/d/k/m a/b/d/k/m/lnb && cp a/b/d/k/m/lnb -r a/c/h/l/n && cp a/b/d/k -r a/b/e && cp a/b/d/k/m -r a/b/e/j && cp a/b/e/j -r a/b/f && cp a/c/h/l/n -r a/c/g/i && cp a/c/g/i -r a/b/f && cp a/c/h/l -r a/c/g 
